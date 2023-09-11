@@ -3,7 +3,7 @@
 
 Custom terminal window based on NSO's game UI. 
 
-<img align="center" width="450" src="./assets/ss.png"  /> <img align="right" width="450" src="./assets/ss1.png"  />
+<img align="center" width="300" src="./assets/ss.png"  /> <img align="right" width="300" src="./assets/ss1.png"  />
 
 
 ## References
